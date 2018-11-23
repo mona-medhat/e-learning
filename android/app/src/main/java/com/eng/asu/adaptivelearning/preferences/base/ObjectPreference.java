@@ -5,7 +5,7 @@ import android.content.SharedPreferences;
 import com.google.gson.Gson;
 
 /**
- * Created by Sergey Bakhtiarov on 23.09.2014.
+ * Created by Muhammed Sabry On 21-11-2018
  */
 public class ObjectPreference<T> extends BasePreference {
     private final T defaultValue;
